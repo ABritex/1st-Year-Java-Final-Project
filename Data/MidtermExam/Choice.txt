@@ -1,0 +1,45 @@
+     A. 1990                                   B. 1995
+     A. Robust                                 B. Secure
+     A. Independent                            B. Platform Independent
+     A. Microsoft                              B. Smart
+     A. Class                                  B. Method
+     A. .java                                  B. .Class
+     A. .java                                  B. .class  
+     A. java bytecode                          B. java  
+     A. Class initializers                     B. increment
+     A. Java                                   B. C++
+     A. int myNumber = 10;                     B. byte a = 55;
+     A. Jcreator                               B. VB10
+     A. double                                 B. byte
+     A. double                                 B. byte
+     A. store                                  B. process
+     A. data type                              B. class name
+     A. int                                    B. boolean
+     A. any character                          B. any decimal number
+     A. constant                               B. variable
+     A. method()                               B. java()
+     A. boolean                                B. byte
+     A. int                                    B. boolean
+     A. studage = 9;                           B. studAge = 9.5;
+     A. short                                  B. long
+     A. system.out.println(Welcome to java);   B. System.out.println("Welcome to java")
+     A. int                                    B. byte
+     A. F1                                     B. F4
+     A. Mark Zuckerberg                        B. James Gosling
+     A. 210                                    B. 180
+     A. static                                 B. non-static
+     A. <=                                     B. {}
+     A. F1                                     B. F4
+     A. long a = "java"                        B. int 24cute = 1
+     A. method name                            B. class name
+     A. method name                            B. class name
+     A. <=                                     B. /* */
+     A. main method                            B. class name
+     A. unique character                       B. indentifier
+     A. static                                 B. void
+     A. <=                                     B. ==
+     A. 21                                     B. 33
+     A. Period                                 B. comma
+     A. \t                                     B. \n
+     A. true                                   B. false
+     A. true                                   B. false

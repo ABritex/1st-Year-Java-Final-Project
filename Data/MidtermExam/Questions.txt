@@ -1,0 +1,45 @@
+1. In what year did Sun Microsystem released the Java?
+2. With this feature it enables java to develop virus-free and a tamper-free systems.
+3. Java can compile into different Operating system or platform like Windows, Linux, iOS, and Solaris.
+4. Java was originally developed by __________.
+5. This can be defined as a template/blueprint that describes the behavior/state of the objects.
+6. Java files are stored in files suffixed with __________.
+7. These files are compiled into java byte code using the java compiler, and the byste code is then executed using the Java Virtual Machine.
+8. Java programs that are written in the Java language are compiled into which can be executed  by the Java Virtual Machine.
+9. This symbol ({}) means?
+10. Which of the following programming languages does not belong to the group?
+11. Which of the following declarion of variable does not belong to the group?
+12. Which of the following programming software does not belong?
+13. A primitive data type that accepts decimal points.
+14. A primitive data type that ranges -128 to 127 know as?
+15. Variables are typically user to __________ information which your Java program needs to do its job.
+16. A piece of memory that can contain a data and value.
+17. The Value 20.68 can be held by a variable of type __________.
+18. A Boolean variable can hold __________.
+19. When data cannot be changed after a class is compiled, the data is __________.
+20. All Java application programm must have a method named __________.
+21. Which of the following is not a primitive data type in Java?"
+22. The value "0938 Quezon Street" can be held by a variablt of type __________.
+23. Assuming you declared studAge to be a variable of type int, which of the following is a valid assignment in Java?"
+24. Which of the following data types can store a value in the least ammount of memory?
+25. A code used to print a text.
+26. A Primitive data type ranges -32,768 to 32,767 knowns as?
+27. Which of the following command key is used to run java program."
+28. He developed Java programming."
+29. System.out.println(200-(-10)) What does it print?
+30. A field of variable that belongs to an instance or object.
+31. The increment operator adds one of the integer value.
+32. A comman key used to execture java program in JCreator.
+33. Which of the following is correct in declaring a variable.
+34. In proper naming this syntax, first letter of the name/identifier should be written in an upper case format.
+35. A syntax used for naming a variable.
+36. A symbol used for comments.
+37. A sequence of Java instructions that are executed in a certain order.
+38. Each variable has a __________.
+39. Which of the folling does not consifered a Keyword.
+40. Which of the following conditional operator does not belong?
+41. In Java, whar uis the value of 3 + 7 * 4 + 2?
+42. All java programming statements must end with a __________.
+43. Which of the following escape characters does not belong?
+44. (5 + 4 < && 7 + 3 <= 20).
+45. (!(7==7)).

@@ -1,0 +1,45 @@
+     C. 2000                                   D. 1996
+     C. Run                                    D. Simple
+     C. Dependet                               D. Robust
+     C. Sun Microsystem                        D. James Gosling
+     C. Private                                D. Public
+     C. .docx                                  D. .ppt
+     C. .docx                                  D. .ppt
+     C. java virtual machine                   D. .ppt
+     C. OOP                                    D. Turbo
+     C. OOP                                    D. Turbo
+     C. String fname = Mark;                   D. double x = "2.2";
+     C. MS Word                                D. Dev C++
+     C. Long                                   D. string
+     C. long                                   D. string
+     C. classify                               D. check
+     C. value                                  D. variable
+     C. double                                 D. String
+     C. any whole number                       D. the values true or false
+     C. volatile                               D. mutable
+     C. Hello()                                D. main()
+     C. int                                    D. sector
+     C. double                                 D. String
+     C. studAge = '9';                         D. studAge = "nine";
+     C. int                                    D. byte
+     C. System.out.println("Welcome to java"); D. system.out.println(Welcome to java)
+     C. boolean                                D. short
+     C. F5                                     D. F6
+     C. Bill Gates                             D. Steve Jobs
+     C. -200                                   D. -210
+     C. parameter                              D. local
+     C. ++                                     D. --
+     C. F5                                     D. F6
+     C. String fname = 23;                     D. double xline = 5.20;
+     C. file name                              D. keyword
+     C. file name                              D. variable name
+     C. {}                                     D. -
+     C. file name                              D. method name
+     C. value                                  D. data type
+     C. find                                   D. public
+     C. !=                                     D. =>
+     C. 42                                     D. 48
+     C. semicolon                              D. closing parathesis
+     C. \r                                     D. \s 
+     C. N/a                                    D. N/a
+     C. N/a                                    D. N/a

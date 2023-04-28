@@ -1,0 +1,15 @@
+java.util.*
+class
+static
+void
+main
+Scanner
+new
+System.in
+double
+println
+nextDouble()
+input
+resultMid
+}
+}
